@@ -1,7 +1,7 @@
 {
   "name": "jscript",
   "version": "1.0.0",
-  "description": "Not another JavaScript playground",
+  "description": "js",
   "main": "gulpfile.js",
   "keywords": [
     "gulp",
